@@ -1,0 +1,10 @@
+C:\Progetti\unity\coloretto2\obj\Debug\ResolveAssemblyReference.cache
+C:\Progetti\unity\coloretto2\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Progetti\unity\coloretto2\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Progetti\unity\coloretto2\Temp\bin\Debug\UnityEditor.dll
+C:\Progetti\unity\coloretto2\Temp\bin\Debug\UnityEngine.dll
+C:\Progetti\unity\coloretto2\Temp\bin\Debug\Mono.Cecil.dll
+C:\Progetti\unity\coloretto2\Temp\bin\Debug\nunit.framework.dll
+C:\Progetti\unity\coloretto2\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+C:\Progetti\unity\coloretto2\obj\Debug\Assembly-CSharp.dll
+C:\Progetti\unity\coloretto2\obj\Debug\Assembly-CSharp.pdb
