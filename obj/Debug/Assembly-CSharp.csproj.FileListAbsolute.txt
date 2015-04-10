@@ -1,0 +1,2 @@
+C:\Progetti\unity\coloretto2\obj\Debug\ResolveAssemblyReference.cache
+C:\Progetti\unity\coloretto2\obj\Debug\Assembly-CSharp.dll
